@@ -2,13 +2,13 @@
 Tento Power BI projekt vizualizuje týdenní cvičební plán klienta vytvořený na základě požadavků trenéra.
 Cílem je přehledně a interaktivně zobrazit:
 
-- plánované cviky v týdnu
+- Plánované cviky v týdnu
 
-- jejich zaměření na různé svalové skupiny
+- Jejich zaměření na různé svalové skupiny
 
-- rozložení času věnovaného jednotlivým cvičením
+- Rozložení času věnovaného jednotlivým cvičením
 
-- nastavené cíle (targety) klienta
+- Nastavené cíle (targety) klienta
 
 ## Projekt využívá možnosti Power BI k interaktivní práci s daty a plnění následujících požadavků:
 
